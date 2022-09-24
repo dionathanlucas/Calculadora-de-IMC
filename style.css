@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 4px;
+    box-sizing: border-box;
+    width: 80%;
+}
+
+ #calcular {
+    background-color: rgb(92, 92, 232);
+    color: #fff;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#limpar {
+    border-radius: 10px;
+    width: 40%;
+}
